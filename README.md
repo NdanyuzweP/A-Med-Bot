@@ -28,6 +28,10 @@ Chatbot-Project/
 │-- backend/
 │   ├── api.py
 │-- README.md
+│-- notebook
+│-- models
+│-- dataset
+│-- README.md
 ```
 
 
